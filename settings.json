@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Kulveersmp-TUrN.aternos.me:23180",
-    "port":  23180,
+    "ip": "Kulveersmp-TUrN.aternos.me",
+    "port": 23180,
     "version": "1.21.1"
   },
   "position": {
